@@ -24,4 +24,6 @@ git branch : This allows to check in which branch we are and how many branches e
 git checkout -b newbranchname : This allows to create a new branch
 
 git check branchname : this allows to change or swap the branches
+
+git branch -d branch name : This allows to delete the existing branch in the repository.
 </br>
