@@ -1,0 +1,11 @@
+This is just a sample repository where i will be creating and uploading from the local to remote
+
+git init :- This will make ready the folder to become a git.
+git remote add origin  <link>  :- This is the command which allows to connect the current folder to the github repo where we will be connecting 
+git remote -v  ( to verify remote)
+git branch :- This allows to check which branch are we in the repository
+
+
+git branch -M main :- This allows to change the branch name to any other names
+
+git push origin main : This allows to push the code and files into the github
