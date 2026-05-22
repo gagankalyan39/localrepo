@@ -6,6 +6,8 @@ git remote -v  ( to verify remote)
 git branch :- This allows to check which branch are we in the repository
 
 
-git branch -M main :- This allows to change the branch name to any other names
+git branch -M main :- This allows to change the branch name to any other names (main= new name)
 
 git push origin main : This allows to push the code and files into the github
+
+git push -u origin main: This allows to keep the same repo for the time period it will reduce of using the origin main words. this is really helpfull when we are working on the single repo
