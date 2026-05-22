@@ -18,4 +18,10 @@ git status:-  This checks whether there is any changes done to the files
 git add "filename" : this allows to add stage or save the files and make ready to commit
 git commit -m "Comments on what u changed" : This allows to save the files 
 git push origin main : This allows to push the files into the github and saves it in the github remote.
+
+git branch : This allows to check in which branch we are and how many branches exist.
+
+git checkout -b newbranchname : This allows to create a new branch
+
+git check branchname : this allows to change or swap the branches
 </br>
