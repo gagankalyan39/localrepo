@@ -23,11 +23,16 @@ git push origin main : This allows to push the files into the github and saves i
 
 git checkout : This allows to change the the branches from one to another
 
+
+sample: hello world
 sample2: this is the 2nd update where i did so that there would be no conflict during merge
 
+<<<<<<< HEAD
 git reset HEAD~1 : this allows to get back one step from the command
 
 git reset < hash > : this allows to go back to that particular commit 
 
 git reset --hard < hash > : this allows tp get back to that particular commit with the code displayed on the screen
+=======
+>>>>>>> main
 </br>
