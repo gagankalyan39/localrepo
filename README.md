@@ -20,4 +20,6 @@ git commit -m "Comments on what u changed" : This allows to save the files
 
 
 git push origin main : This allows to push the files into the github and saves it in the github remote.
+
+git checkout : This allows to change the the branches from one to another
 </br>
