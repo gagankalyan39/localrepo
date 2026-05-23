@@ -23,5 +23,8 @@ git push origin main : This allows to push the files into the github and saves i
 
 git checkout : This allows to change the the branches from one to another
 
+
 sample: hello world
+sample2: this is the 2nd update where i did so that there would be no conflict during merge
+
 </br>
